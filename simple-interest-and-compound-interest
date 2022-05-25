@@ -1,4 +1,4 @@
-https://www.codewars.com/kata/59cd0535328801336e000649/train/javascript
+/* https://www.codewars.com/kata/59cd0535328801336e000649/train/javascript
 
 Simple Interest and Compound Interest
 
@@ -22,6 +22,7 @@ interest(100, 0.1,  2)  =  [120, 121]
 interest(100, 0.1, 10)  =  [200, 259]
 
 Solution:
+*/
 
 function interest(P,r,n) {
   

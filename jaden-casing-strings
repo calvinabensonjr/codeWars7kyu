@@ -1,4 +1,4 @@
-https://www.codewars.com/kata/5390bac347d09b7da40006f6/train/javascript
+/* https://www.codewars.com/kata/5390bac347d09b7da40006f6/train/javascript
 
 Jaden Casing Strings
 
@@ -14,10 +14,11 @@ Not Jaden-Cased: "How can mirrors be real if our eyes aren't real"
 Jaden-Cased:     "How Can Mirrors Be Real If Our Eyes Aren'
 
 Solution:
+*/
 
 function capFirstLetter(string) {
       return string.charAt(0).toUpperCase() + string.slice(1);
   }
   
-  return this.split(' ').map(capFirstLetter).join(' ');
-};
+  return this.split(' ').map(capFirstLetter).join(' ')
+

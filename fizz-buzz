@@ -1,4 +1,4 @@
-https://www.codewars.com/kata/5300901726d12b80e8000498/train/javascript
+/* https://www.codewars.com/kata/5300901726d12b80e8000498/train/javascript
 
 Fizz Buzz
 
@@ -17,7 +17,9 @@ Method calling example:
 
 fizzbuzz(3) -->  [1, 2, "Fizz"]
 
-Solution:
+*/
+
+//Solution:
 
 function fizzbuzz(n){
   //

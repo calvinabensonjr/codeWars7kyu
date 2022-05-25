@@ -1,4 +1,4 @@
-https://www.codewars.com/kata/545a4c5a61aa4c6916000755/train/javascript
+/* https://www.codewars.com/kata/545a4c5a61aa4c6916000755/train/javascript
 
 
 Find the middle element
@@ -26,6 +26,7 @@ powered by
 
 
 Solution:
+*/
 
 function gimme (triplet) {
   console.log(triplet)

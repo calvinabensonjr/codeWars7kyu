@@ -1,4 +1,4 @@
-https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/javascript
+/* https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/javascript
 
 Vowel Count
 
@@ -11,6 +11,7 @@ We will consider a, e, i, o, u as vowels for this Kata (but not y).
 The input string will only consist of lower case letters and/or spaces.
 
 Solution:
+*/
 
 let vowelsCount = 0;
   let string = str.toString()
