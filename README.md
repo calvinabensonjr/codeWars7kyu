@@ -1,3 +1,3 @@
 # codeWars7kyu
 
-![codewars image](image/codewarsimg.png)
+![codewars image](image/codewarsImg.png)
