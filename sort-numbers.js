@@ -26,6 +26,7 @@ Solution:
  function solution(nums){
   //if nums is equivalent to null or []
   //return []
+   
   if(nums === null || nums === []){
   return []
   }else{
