@@ -2,4 +2,4 @@
 
 ![codewars image](image/codewarsImg.png)
 
-## Here lies the soltuions to level seven codewars
+## Here lies the solutions to level seven codewars
