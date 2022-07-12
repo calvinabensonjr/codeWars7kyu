@@ -67,3 +67,4 @@ function encode(str,  n)
   console.log(str, n)
   return str;
 }
+
